@@ -1,0 +1,276 @@
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/Godwzl_X/app/article/details/98320531,3天前,HashMap的四种遍历方式与for each循环原理以及for each循环增删操作异常原因,"首先梳理一下List、Map、Set这三种常用的集合List特点：元素有序，可重复Set特点：元素无序，不可重复Map特点：元素按键值对存储，无序1.通过keySet遍历		Map&lt;String,String&gt;userMap=newHashMap&lt;&gt;();Set&lt;String&gt;keySet=user...",Godwzl_X,"('17',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/edcvbgtyhn/app/article/details/98324242,3天前,关于大数据，真的是你以为的吗？,每天人们在吃饭，睡觉，工作，娱乐都会产生数据——大量的数据。根据IBM（国际机器商业公司）记录，人类每天会产生2.5万亿字节的数据，这相当于一堆DVD到达月球又返回来，我们发送的所有文本，和我们上传到工业传感器指标的照片，以及机器之间的通信这么大的量。这是“大数据”成为一个很普遍的短语的重要原因。简单来讲，人们所谈论的大数据是指针对大量的数据，然后对它进行分析，最后把它转变成有用的东西的一种能...,edcvbgtyhn,"('91',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/edcvbgtyhn/app/article/details/98243697,4天前,大数据开发学习 重难点全面解析,大数据开发工程师，很多人都向往的职业，但总有这样那样的理由，在逼迫这自己放弃。明明知道大数据良好的前景，明明知道学完大数据可以找到一份很好的工作，但就是不会对自己下狠心。总结了学生在学习大数据开发过程中遇到的难点，帮助大家逐一攻克难关!大数据开发，有4个阶段：1、数据采集数据采集有线上和线下两种方式，线上一般通过爬虫、通过抓取，或者通过已有应用系统的采集，在这个阶段，我们可以做一个...,edcvbgtyhn,"('58',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/MPQ1314/app/article/details/93845354,6天前,拼车小程序 人找车  车找人  免费+收费发布信息  可直接上线运营功能源码（小程序拼车+后台管理系统+同城）,最近做了一个拼车小程序，人找车车找人免费+收费发布信息可直接上线运营功能源码人找车车找人免费+收费发布信息可直接上线运营个人中心：微信授权登陆，分享拼车...,qq_2524659204,"('159',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/PyhtonChen/app/article/details/98364128,3天前,Python获取时序数据并进行可视化分析,1.准备工作tushare是一个第三方财经数据接口包，需要安装包并完成注册。	安装tushare包	pipinstalltushare	为防恶意调用接口数据，官方()需要新用户完成注册、提高积分(例如达到200)、取得访问权限tokenID，例如：1797f6915fbc1e612c33c6ed4cf85a2b7b349d85db80bf0860337f...,PyhtonChen,"('34',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/csdnnews/app/article/details/97845457,7天前,“5 年内，PC 或将逐渐消失！”| 人物志,受访者|曹峻玮采访者|屠敏出品|CSDN（ID：CSDNnews）时光追溯到20年前，彼时的你是否可曾想到未来会有那么一天，一部手机能够取代掉电话、银行卡、录音笔、手电筒、相机乃至电视机等诸多的硬件设备？亦或现在，你是否畅想过《蜘蛛侠:英雄远征》电影中钢铁侠留下的眼镜——伊迪斯能够在真实世界中存在与应用？技术更迭，时代变迁，很多脑海中想象的场景正在现实世...,CSDN资讯,"('6551',)",56
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/y277an/app/article/details/98342442,3天前,彻底搞懂Redis的线程模型,为了接下来一篇博客，能使读者更加完整地学习线程模型，所以本文对Redis的线程模型进行必要的讲解。由于《Redis设计与实现》对于Redis的讲解简练优雅，所以本文大部分内容节选自本书，也欢迎对Redis有更多底层了解需求的读者，自行购买学习。文件事件处理器Redis基于Reactor模式开发了网络事件处理器，这个处理器被称为文件事件处理器。它的组成结构为4部分：多个套接字、IO多...,全菜工程师小辉,"('1235',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/tuotuoyue/app/article/details/98243734,4天前,【2019.07.30 Python每日一题】答案 —— 平方根格式化,题目描述获得用户输入的一个整数a，计算a的平方根，保留小数点后3位，并打印输出。‪‬‪‬‪‬‪‬‪‬‮‬‪‬‫‬‪‬‪‬‪‬‪‬‪‬‮‬‫‬‭‬‪‬‪‬‪‬‪‬‪‬‮‬‭‬‫‬‪‬‪‬‪‬‪‬‪‬‮‬‪‬‫‬‪‬‪‬‪‬‪‬‪‬‮‬‫‬‮‬‪‬‪‬‪‬‪‬‪‬‮‬‫‬‫‬输出结果采用宽度30个字符、右对齐输出、多余字符采用加号(+)填充。‪‬‪‬‪‬‪‬‪‬‮‬‪‬‫‬‪‬‪‬‪‬‪‬‪‬...,tuotuoyue,"('60',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/xiaomu_347/app/article/details/98449783,2天前,Git入门使用,对一个合作项目而言，不同的开发人员协调是个很头疼的问题，这时候我们就需要借助git来帮助我们实现仓库存储管理。下面就自己的摸索进行以下记录，以供后效。（1）安装gitgit有Windows和Mac等版本的，根据自己开发机系统进行选择，下载链接：https://git-scm.com/download，Windows下有一些可视化界面，但是最好还是掌握一些Linu...,xiaomu_347,"('73',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/zhangmeimei_pku/app/article/details/98309482,3天前,floodlight官方文档（十七）：Application Modules详解----Forwarding,介绍DescriptionServicesProvidedServiceDependencies依赖的服务JavaFileHowitworksLimitationsConfigurationDescription转发将在两个设备之间转发数据包。源设备和目标设备将由IdeviceService进行分类。ServicesProvidedNoneServiceDependenci...,zhangmeimei_pku,"('71',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/lucy123_/app/article/details/96483069,6天前,Linux重要命令-route,Linux系统的route命令用于显示和操作IP路由表（show/manipulatetheIProutingtable）。要实现两个不同的子网之间的通信，需要一台连接两个网络的路由器，或者同时位于两个网络的网关来实现。在Linux系统中，设置路由通常是为了解决以下问题：该Linux系统在一个局域网中，局域网中有一个网关，能够让机器访问Internet，那么就需要将这台机器的IP地址设...,lucy123_,"('65',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/voke_/app/article/details/97926337,6天前,用Python实现原生爬取某牙直播平台数据,"一.确定自己需要的数据,并找到最适合爬取的页面最近学习了一大堆和大数据相关的东西，Hadoop、二.分析数据所在的标签三.模拟http获取服务器返回的html四.用正则表达式提取我们需要的信息五.存储和展示数据...",唐大帅,"('39',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/Tastill/app/article/details/97930315,6天前,迷茫，程序员的未来该何去何从？,曾经满腔热血从大学校园踏入了社会，有很多想法，很多报复想去实现，但是在这三四年的工作中，渐渐感觉到了迷茫。。。成为程序员也有四五年了，干过设计的活，做过测试的事，兼职过运维，也扮演过DBA，摇摇晃晃，在研发道路上越走越远。作为一个JAVA程序员，虽然没有架构师的学识，但是因为经历过方方面面，所以也明白很多项目得事。正因为了解的越多，越苦恼！想过创业，14年时想做智能手表，可惜没有启动资...,Tastill,"('204',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_41986518/app/article/details/97911609,6天前,200行C++代码实现命令行3D魔方游戏 这效果太逼真了！,C++6.0编写的3D魔方游戏附代码，开发智力的益智小游戏。游戏界面和游戏控制是很值得学习的。这款魔方游戏玩法：用鼠标选中需要调整的魔方方块，点击右侧的对应操作，即可改变魔方状态。借助本游戏源码你可了解一些用VC++6.0编写游戏的基础技巧。代码结构截图：主要代码截图：源码测试截图：俄罗斯方块的大受欢迎还有一个因素：玩这个游戏没那么简单，...,C/C++编程,"('542',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/soullines/app/article/details/97966399,6天前,Logistic逻辑回归(sigmod二分类)成本函数推导  && 及其梯度下降,"logistic逻辑回归是比较常用的二分分类,其激活函数适用于各种二分类场景,但是其函数在t极大或者极小的时候趋于饱和会引发梯度消失,进入影响网络调参使得函数不能很好的收敛有兴趣的同学可以参阅我的上一篇博客,来参看梯度消失&amp;爆炸的原理:https://blog.csdn.net/soullines/article/details/94399187下面来看基于sigmod激活函数的og...",soullines,"('19',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/g6U8W7p06dCO99fQ3/app/article/details/98476911,2天前,史上最牛分析MySQL索引机制的实现！不接受反驳！,作者：陌北有棵树，爱玩Java，架构师社区合伙人！数据库是一个只要从事后端开发，就永远离不开的技术，大部分企业选择的数据库都是MySQL，所以需要我们对MySQL有着足够...,架构师小秘圈,"('45',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/CSDNedu/app/article/details/97761123,7天前,为什么雷军说“华为不懂研发”？,作为消费者，我们购买一台手机最看重什么？价格？外观？还是功能？毋庸置疑的是，手机质量是我们愿意购买的重要参考因素和前提，不管是软件层面还是硬件层面，质量都是手机的核心竞争力。手机要拥有比较好的质量和体验，这和研发息息相关，但手机研发究竟应该投入多少经费，这一直都是一个具备争议性的话题。近日，当“如何看待雷军称研发费用不是越多越好，华为研发费用高是不懂研发效率低？”在知乎上大火后，以华为和小...,CSDN学院,"('267',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_38405253/app/article/details/97901143,6天前,Java面试题内容聚合,分类整理一些内容，方便需要时回过头来看，整理不易，如有疏漏，请多担待！之后要查看这篇文章，公众号后台回复“面试题聚合”面试技术文Java岗面试考点精讲（基础篇01期）Java岗面试考点精讲（基础篇02期）Java岗面试考点精讲（网络篇03期）Java面试中遇到的坑Java面试中遇到的坑【填坑篇】Java面试中遇到的坑【篇二】java面试遇到的坑[第...,后端君,"('559',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_43359864/app/article/details/97892558,6天前,机器视觉的终点是嵌入式视觉,在这种新的嵌入式设置中，各个组件组合在一起成为一个设备，因此机器视觉成为嵌入式视觉。机器视觉是指机器在视觉上感知其环境的能力。典型设置包括用于捕获图像的相机，将相机连接到PC的电缆，以及进行图像处理的PC。这种设置的主要优点是简单。即插即用组件通过标准接口（如USB，GigE）连接，并使用标准协议（USB3Vision，GigEVision）。由于它们与标准操作系统（如Windows）配...,朗锐智科,"('108',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/fdsdidgf/app/article/details/97936430,6天前,国内外65％的程序员竟都是自学成才？,大多数优秀的程序员都是自学成才！服不服？很多人在听到这句话时，或许都会不屑一笑，毕竟这一结论的得出似乎在一定程度上抬高了非科班转行以及培训班出来的技术人，同时将科班出来的程序员们置于一个较为尴尬的位置。但是，据最新的数据研究结果显示这一结论确实有理可依。日前，国外知名的编码对战平台HackerRank深入研究了全球10351名学生开发者的学习方式以及技能状况，并发布了《2018年Stu...,进击的前端开发者,"('30',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/wwwsctvcom/app/article/details/98449265,2天前,十大经典排序算法：快速排序,"一、算法复杂度二、算法流程1、寻找一个基准值pivot，将小于基准的放到基准的左边，大于基准的放在右边，这个操作叫做partition；2、递归的将基准左边和右边的子序列重复上面的步骤；三、代码实现importcopydefswap(arr,i,j):tmp=arr[i]arr[i]=arr[j]arr[j]=tmp...",wwwsctvcom,"('43',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_34847754/app/article/details/98387599,3天前,2019校招猿辅导笔试（8.3号）小猿迷宫问题,"题目描述在m*n的迷宫中，小猿只能前往比当前格子数值大的格子，且每次只能上下左右移动，小猿有K次破格前往小于等于自己格子值的机会。输入描述：第一行：m,n,k,接下来m行为m*n矩阵的值。初始时小猿在0,0位置331987654321返回：2解题思路可采用深度优先C++代码voidyuanfudao::question_2(){	cin&...",四方通行L,"('30',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_24095055/app/article/details/97951899,6天前,Redis - 慢查询分析,文章目录慢查询分析慢查询的两个配置参数最佳实践慢查询分析许多存储系统（例如MySQL）提供慢查询日志帮助开发人员和运维人员定位系统存在的慢操作。所谓慢查询日志就是系统在命令执行前后计算每条命令的执行时间，当超过预设阀值，就将这条命令的相关信息（例如：发生时间，耗时，命令的详细信息）记录下来，Redis也提供了类似的功能。如下图，Redis客户端执行一条命令分为如下4个部分：1.发送命令...,进击的Z同学,"('41',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/lanshan1111/app/article/details/98313281,3天前,CF--King's Path--BFS+STL综合,C.King'sPathtimelimitpertest2secondsmemorylimitpertest256megabytesinputstandardinputoutputstandardoutputTheblackkingisstandingonachessfieldconsistingof109rows...,Preeee,"('74',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq78442761/app/article/details/97666878,8天前,Java&前端笔记-后端Springboot，前端vue，Nginx使前后端分离,目录基本概念代码实例基本概念这是一个很6的模式，以目前本人C++Qt的技术，是做不出的，但Java已经有雏形了。后端采用SpringBoot主要是回json数据，如下所示：这里的数据都是来自数据库：前端通过点击按钮向后端发送请求，从而获取数据：相关的Nginx代理如下：这里Vueapplication是192.168.164.1:8...,IT1995,"('154',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qf2019/app/article/details/97895376,6天前,学习java基础可以找到工作吗,机会是留给有准备的人！刚毕业或者毕业毕业不久的同学来说，很多学生都是只有java基础，并不深入，那么，在哈尔滨学习java基础可以找到工作吗，在2019年的互联网行业中，中高级Java程序员加速批量加入了求职市场，在薪资波动的同时，初级Java程序员的求职生存空间被严重挤压。而各个大厂的裁员，流入求职市场大量的优质中高级的程序员，给了所有企业更多的选择，从而，招聘的要求也随之上升。在2019年上...,qf2019,"('209',)",1
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/edcvbgtyhn/app/article/details/98343919,3天前,小米2年半大数据经验，到手工资11400，大数据真有这么低？,最近，号主在论坛上看到一位小哥晒工资短信，并且附言“猴厂2年半大数据，心态崩了”，显示的月工资到手为11443.55元。小哥之所以心态崩溃，是因为工资太太太太太低啦。我们都知道，大数据新人的起薪一般是12-20K不等。如果是技术过硬面试谈的又好的，年薪三十万也有很多。而这位小哥在著名的猴场“小米”工作2年半，如果税后工资是11400左右，那么税前有极大可能性在15K左右。当...,edcvbgtyhn,"('204',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/wucz122140729/app/article/details/98373343,3天前,C语言浮点数,浮点数的概念浮点数也称小数或实数。例如，0.0、75.0、4.023、0.27、-937.198都是合法的小数。这是常见的小数的表现形式，称为十进制形式。C语言中采用float和double关键字来定义小数，float称为单精度浮点型，double称为双精度浮点型，longdouble更长的双精度浮点型。在任何区间内（如1.0到2.0之间）都存在无穷多个实数，计算机的浮点数不...,,"('37',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_36852780/app/article/details/98370325,3天前,Java集合汇总(全),"本篇文章主要对Java集合框架进行介绍,对之前的内容的一个总结.本文具体介绍了Collection接口,Map接口.该文只是把平时常见的集合类总结到了一起.一、Java集合类之间的继承上图是集合框架的继承图(图片来源:Java集合类:Set、List、Map、Queue使用场景梳理.)上图是常用类的框架图.后面将会对每个类的优缺点进行详细介绍二、集合类的优缺点(XM...",-Clearlight,"('49',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/csdnnews/app/article/details/97845394,7天前,5G 重新定义生老病死！,作者|胡巍巍出品|CSDN（ID：CSDNnews）5G时代，我们的生老病死，或将被重新定义！5G手术，让生命不再受制于距离海南的神经外科专家凌至培，使用5G技术...,CSDN资讯,"('3147',)",5
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/zhangdaiscott/app/article/details/97753867,7天前,IDEA如何像Eclipse打开多个项目？,简述：不能采用open方式，得采用importmodule方式（多个项目，可以不再同一个根目录下，真正的类似eclipse方式打开多个项目）具体操作步骤：1.选择一个maven项目，右键选择“openmodulesettings”2.打开setiing，点击加号，点击importmodule3.选中项目，采用maven导入（一路nex...,,"('46',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/sushengbuhuo/app/article/details/97836785,6天前,如何发一条空白的朋友圈,"所谓空白的朋友圈就是一条看起来没有文字的朋友圈，因为发朋友圈的时候不输入文字是没法发送的。不可见字符是有文字内容的，只是人的肉眼看不见，所以相当于空白。不可见字符不可见字符就是零宽空格，见维基百科解释https://zh.wikipedia.org/wiki/%E9%9B%B6%E5%AE%BD%E7%A9%BA%E6%A0%BC：零宽空格（zero-widthspace,ZWSP）...",苏生不惑,"('3718',)",22
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/baihualindesu/app/article/details/98207414,4天前,重写equals()必须重写hashCode(),如果不被重写（原生Object）的hashCode和equals是什么样的？不被重写（原生）的hashCode值是根据内存地址换算出来的一个值。	不被重写（原生）的equals方法是严格判断一个对象是否相等的方法（object1==object2）。为什么需要重写equals和hashCode方法？在我们的业务系统中判断对象时有时候需要的不是一种严格意义上的...,平头小强,"('36',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_44049351/app/article/details/97933330,6天前,mysql数据库的简单用法,"MYSQL数据库的基本操作1.进入mysql数据库mysql-uroot-p但是一般我不用这个进我用mycli这个其实和mysql数据库一样只不过多了补全，高亮等功能;mycli-uroot2查看数据库刚进入数据库时是这个样子的我们可以使用以下命令来查看自己的数据库(注意分号是必不可少的)showdatabases;在这张图里面talk是我自己创建的数据库,...",xzwb!,"('331',)",1
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_43328024/app/article/details/97747707,6天前,C语言项目-俄罗斯方块,C语言项目-俄罗斯方块-预备部分1.完成该项目所需的8个C语言知识块基本控制台输入，输出函数的声明，定义和调用switch选择结构goto无条件跳转语句的使用控制台字体颜色的设置控制台上文字显示位置的设置随机数rand()函数的使用获取键盘按键并进行相应操作2.游戏项目设计逻辑框架1.游戏主窗体①二维数组②坐标位置计算③switch…case2.游戏欢迎界面①...,一维定态薛定谔,"('533',)",1
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/LokaHer/app/article/details/97961940,6天前,Unity及C#知识（供个人学习整理用）,7月18日Unity操作Q移动视野W移动物体E绕三轴旋转物体R按三轴拉长物体or按住中点放大T四点拉Y全能中键：平移右键：绕摄像机转视野Alt+左键：聚焦一点转视野Alt+右键：放大缩小视野界面Inspector右上角选择Debug模式查看更多跨平台Unity的跨平台，就是通过Mono将C#脚本代码编译成CLI，然后Mono运行时利用JIT或者AOT将CLI编译成...,LokaHer,"('97',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_44195250/app/article/details/98212895,4天前,前端面试题整理,请你谈谈Cookie的弊端？缺点：1.Cookie数量和长度的限制。每个domain最多只能有20条cookie，每个cookie长度不能超过4KB，否则会被截掉。2.安全性问题。如果cookie被人拦截了，那人就可以取得所有的session信息。即使加密也于事无补，因为拦截者并不需要知道cookie的意义，他只要原样转发cookie就可...,Thiwt Pmgwb,"('39',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_43135701/app/article/details/98091215,5天前,学会这些Word技巧，还有什么工作可以难倒你？,在工作中我们需要使用Word来对软文进行编辑，来对文件进行整理，来对工作中的事情进行总结归纳记录。既可以加快我们的工作进程也可以让整个工作变得更加活跃轻松，下面是分享的几个word操作小技巧，熟练使用任何工作都难不到你。一：录入时间与日期不知道大家在Word里面是如何录入时间与日期的呢？今天教大家一个方法，只需两个快捷键即可完成录入解决方法：录入当前时间：Alt+Shift+D；录入当前日...,段瘦瘦,"('15',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/fuckthebugs/app/article/details/97935601,6天前,spring+springMVC配置时发生 org.apache.catalina.core.StandardContext.startInternal Context [] startup fail,spring+springMVC配置时发生org.apache.catalina.core.StandardContext.startInternalContext[]startupfailedduetopreviouserrors错误在启动Tomcat时没有响应，错误信息如下：严重[RMITCPConnection(3)-127.0.0.1]org.apache.c...,xzh1_derek,"('15',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/wgx_9581/app/article/details/98375436,3天前,java数组简单介绍及冒泡排序,一维数组、二维数组的简单介绍以及冒泡排序规则说明,wgx_9581,"('35',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_45081575/app/article/details/97295118,4天前,python爬虫小项目(05)✦爬取美女图片,代码仅作为学习交流之用。！代码详细写了如何利用python批量爬取网站图片，适合新手看,SunriseCai,"('2603',)",4
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_43634001/app/article/details/98347366,2天前,拉格朗日乘子法（简单易懂的说明）,拉格朗日乘子法（LagrangeMultiplier） 之前在高中就有一直听到拉格朗日，拉格朗日是一个很牛逼哄哄的大佬。在学习SVM的时候，居然也见到了他的身影。让我们了解一下拉格朗日乘子法的具体内容。 在学习过程中，有时会遇到一些最优化问题。这里提到的最优化问题通常是指对于给定的某一函数，求其在指定作用域上的全局最小值（无论最大最小值都可以转化为最小值），二者均是求解最优化问题的方法不同之...,Auraros,"('59',)",2
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/liliangpin/app/article/details/98339291,3天前,精选几个bootstrap后端框架模板，值得收藏！,点击上方“程序IT圈”，选择“置顶公众号”每天早晨8点50分，准点开车打卡工欲善其事，必先利其器。对于从事软件开发的您也一样，有一套熟悉的bootstrap后台ui框架...,程序IT猿,"('19',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/luositing/app/article/details/98472635,2天前,【洛谷P4169】天使玩偶/SJY摆棋子【CDQ分治】,"传送门题意：动态加点，给定点询问曼哈顿距离最近的点N,M≤3e5,x,y≤1e6N,M\leq3e5,x,y\leq1e6N,M≤3e5,x,y≤1e6经(kan)过(le)分(ti)析(jie),这是一道cdqcdqcdq分治考虑当前区间左半边修改对右半边的询问的影响设左边某个修改为(x1,y1)(x_1,y_1)(x1​,y1​)，右边的某个询问为(x2,y2)(x_2,y_...",Lstdo,"('89',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_44517301/app/article/details/98308592,2天前,python图像处理问题AttributeError: 'NoneType' object has no attribute 'shape',可能是因为没有设置路径，所以返回的类型是None。改正的方法是，读取图片时把路径也写上改正前#readanimageimg=cv2.imread('image.jpg')#printthedimensionoftheimageprintimg.shape改正后#Trychangingthedirectionof...,隔壁郑同学,"('9',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/wucz122140729/app/article/details/98367731,3天前,C语言if分支结构,关系运算符在讲if条件分支结构之前，先了解关系运算，它们专门用于判断条件中，让程序决定下一步的操作，称为关系运算符（RelationalOperators）。			关系运算符									含义									数学中的表示								&lt;									小于									&lt;								&lt;=	...,,"('12',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/CSDNedu/app/article/details/97898465,6天前,快报：Python 被爆重大“黑料”！程序员：劲爆！,坐拥各大编程排行榜的Python，真的无敌了吗？在我一个朋友看来，他坚信Python可以做任何事情。但其实我是不服的，我相信很多人都有这种感觉。但是我最近当看GitHub年度项目数量时，我哭了，因为Python应用项目也太太太太多了吧！你们都是被Python迷惑了吗？说好一起同Java和C白头，你们却一个一个变了心？所以程序当我的朋友不断投入Python...,CSDN学院,"('4851',)",3
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_41137110/app/article/details/97772798,7天前,汇编语言（王爽）——实验七 寻址方式在结构化数据访问中的应用,"原题目：个人代码：assumecs:codesgdatasegmentdb'1975','1976','1977','1978','1979','1980','1981','1982','1983'db'1984','1985','1986','1987','1988','1989','1990','1991','1992'db'1993','1994',...",薵衞斖,"('43',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_36999496/app/article/details/98352541,3天前,"安装nodejs,npm,yarn",先安装nodejs和npmsudoaptupdatesudoaptinstallnodejsnpm#验证一下nodejs--versionnpm--version如果nodejs不好使，可以试试设置aliasnode=nodejs然后安装yarncurl-sShttps://dl.yarnpkg.com/debian/pubkey.gpg|sudoap...,随意随缘,"('39',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_44052482/app/article/details/98473020,2天前,常见排序算法,常见排序算法常见排序算法效率冒泡排序选择排序快速排序归并排序希尔排序插入排序,weixin_44052482,"('39',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_44841312/app/article/details/98441919,2天前,最简单的冒泡排序,一、冒泡排序是什么：冒泡排序（BubbleSort，台湾译为：泡沫排序或气泡排序）是一种简单的排序算法。它重复地走访过要排序的数列，一次比较两个元素，如果他们的顺序错误就把他们交换过来。走访数列的工作是重复地进行直到没有再需要交换，也就是说该数列已经排序完成。这个算法的名字由来是因为越大的元素会经由交换慢慢“浮”到数列的顶端，故名。二、原理：依次比较相邻的两个数，如果顺序错误就将两个数顺...,建江1号,"('34',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_35529931/app/article/details/88192814,3天前,2019年最新版--Java 最常见的 200+ 面试题汇总+答案总结汇总,在本篇文章开始之前，我想先来回答一个问题：我为什么要写这样一篇关于面试的文章？原因有三个：第一，我想为每一个为梦想时刻准备着的“有心人”，尽一份自己的力量，提供一份高度精华的Java面试清单；第二，目前市面上的面试题不是答案不准确就是内容覆盖面太窄，所以提供一份经典而又准确的面试题是非常有必要的；第三，本文会对部分面试题提供详细解读和代码案例，让读者知其然并知其所以然，从而学到更多的知识。或...,virtuousOne,"('4843',)",4
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_35433926/app/article/details/98313230,2天前,java开发工程师面试总结,java开发工程师面试常见问题：jvm，io，数据结构，算法，多线程，设计模式，mysql，缓存，消息队列，nginx,薛凌康,"('49',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_45180919/app/article/details/98309851,3天前,hibernate的主键生成器,1.hibernate的主键生成器:generator元素：表示了一个主键生成器，它用来为持久化类实例生成唯一的标识。准备工作：写两个实体类：studentpackagecom.Liuyujian.one.entity;publicclassStudent{privateIntegersid;privateStringsname;publicIntege...,weixin_45180919,"('27',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_44623040/app/article/details/98303673,3天前,了解正则表达式的基本含义和操作,"本文来自《正则表达式必知必会》的总结，因为本人也算才入门，只是分享一下，也给自己做个总结。同时希望更多的人能够理解其中的含义，而不只是上网百度之后直接就拿来用,本来正则没有那么难~以下引自书中的话将使用引用的方式声明。正则表达式就是用来筛选一些自己想要或者不想要的字符串。比如：手机号、邮箱、身份证等。正则表达式被简称为模式，他们是有一些字符构成的字符串。这些字符可以是普通字符和元字符。...",ShiyuTim,"('73',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/fei347795790/app/article/details/98343082,3天前,"使用scrapy爬虫,爬取今日头条首页推荐新闻（scrapy+selenium+PhantomJS）",爬取今日头条https://www.toutiao.com/首页推荐的新闻，打开网址得到如下界面查看源代码你会发现全是js代码，说明今日头条的内容是通过js动态生成的。用火狐浏览器F12查看得知得到了今日头条的推荐新闻的接口地址：https://www.toutiao.com/api/pc/focus/单独访问这个地址得到此接口得到的数据格式为json数据我们用scrapy+...,嗨学编程,"('27',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_44517301/app/article/details/97959015,3天前,几行python代码写一个聊天机器人,"importurllib.requestimportrewhileTrue:x=input(""主人："")x=urllib.parse.quote(x)link=urllib.request.urlopen(""http://nlp.xiaoi.com/robot/webrobot?&amp;callback=__webrobot...",隔壁郑同学,"('16',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/wdcl2468/app/article/details/98337203,3天前,创建同一类型不同的对象——Builder来秀一波,在我们实际的开发需求中，经常需要创建同一类型的不同的对象，而且这个对象的特性还是随机可变的，这样就需要我们使用一种设计模式来满足复杂多变的场景；1.业务场景我们以经常出现的喝咖啡为例，每种咖啡都有大杯小杯和中杯之分，然后咖啡可以添加糖、牛奶或者酒（？，这个口味就比较独特了），我们可以搭配大杯咖啡+糖、大杯咖啡+牛奶、小杯咖啡+酒、大杯+糖+牛奶等等，随着添加的种类的增多，搭配的种类也是不...,Amos zhu,"('19',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/cold___play/app/article/details/98471457,2天前,2010软件设计师考试（英语部分）,"2010年上半年上午卷Observethatfortheprogrammer,asforthechef,theurgencyofpatron(顾客)maygovernthescheduledcompletionofthetask,butitcannotgoverntheactualcompletion.Anomelette(煎鸡蛋),...",吴声子夜歌,"('11',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_38753938/app/article/details/98113198,4天前,HashMap源码,"HashMap源码：/***Hashtablebasedimplementationofthe&lt;tt&gt;Map&lt;/tt&gt;interface.This*implementationprovidesalloftheoptionalmapoperations,andpermits*&lt;tt&gt;null&lt;/tt...",liangwc731,"('52',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/lllalaaaa/app/article/details/98366999,2天前,Windows 命令行操作,目录1相关操作1.1快捷键打开1.2输入/?查询使用方法2目录操作2.1切换至C盘根目录或其他盘根目录2.2cd命令1相关操作1.1快捷键打开WIN+R打开运行输入cmd即可进入命令行也可以通过输入cdm/c+命令或者cmd/k+命令（注意斜杠前有空格）来直接执行命令行操作，其中/c表示执行完命令后关闭cmd窗口，/k则为执行完命令后保留cmd窗口。...,lllalaaaa,"('6',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/HyperAI/app/article/details/98140566,5天前,浙大博士 130 页论文，教你用人工智能挑西瓜,By超神经场景描述：要问什么水果和夏天最搭，答案一定是西瓜。作为西瓜生产与消费大国，中国在2018年以全世界20%的人口消耗掉全世界70%的西瓜，人均10...,,"('1476',)",2
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_40338373/app/article/details/98208648,4天前,Excel中数据也能自己朗读？这一个操作太神奇了，赶紧学起来,世界之大，无奇不有，很多实用的小技巧，可能在你不知道的情况下，别人就已经开始使用了，当然，也有很多功能是你熟悉，而别人不知道的，所以呀，我们需要不断的补充能量，只有这样，你才能做得更好。今天了，我们就来见证一个神奇的操作，它存在于Excel表格中，当你添加之后，只需要按一下Enter键就好了，它就会自动为你朗读，是不是很神奇呀！具体操作方法如下：1.新建一个Excel表格，然后点击菜单...,cen风,"('81',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/yizhixin/app/article/details/98090850,5天前,人工智能时代下，Python与C/C++谁将成为人工智能核心算法选择？,据TIOBE公布的2019年6月编程语言排行榜，Python以8.53%的涨幅排名超过去年同期C++排名，位列第3名，仅次于Java和C。python一路逆袭，甚至有人断言未来Python将成为人工智能的核心算法。那作为机器学习底层框架和支持库的C/C++就没有市场了吗？其实也不尽然！互联网产品日渐饱和，移动互联网也已进入下半场，市场已经从巅峰时代逐渐进入一个相对平稳的发展阶段，互联网人口渗...,小牛程序员,"('15',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_31463999/app/article/details/97673974,8天前,设计模式-11 单例模式,文章目录1.什么是单例模式2.单例模式优缺点2.1优点2.2缺点3.单例写法3.1饿汉式3.2懒汉式（线程不安全）3.3懒汉式（线程安全）3.4双重检验锁3.5静态内部类3.6枚举方式3.7容器管理4.如何防止破坏单例4.1反射技术4.2使用序列化技术破解单例5.防止破解5.1反射技术5.2序列化1.什么是单例模式单例模式确保一个类只有一个实例，并提供一个全局访问点...,沐宇熙,"('7394',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/mogoweb/app/article/details/98409880,3天前,那年，我去过的台湾,刚看到一则新闻，赴台个人游暂停。这个中原因，众说纷纭，总之是神仙打架，小鬼遭殃，咱们普通百姓也不敢问，不敢说。对于个人而言有什么影响呢？就是没法来一场说走就走的台湾行，想...,云水木石,"('43',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/YUEXILIULI/app/article/details/95933434,6天前,迷宫探宝（c/c++完整代码）(贪吃蛇+迷宫),游戏背景：一天一条小蛇来到了一个迷宫探险，因为听说这个迷宫里面有些食物能让它变长，所以，它非常的兴奋想来吃走所有食物。迷宫通道刚好只能容纳它的蛇身，但这一条小蛇有个特点，它有2个头，所以不需要掉头可以直接前后移动。小蛇每吃一个食物，自身长度增一，且头不能碰到自己的身体（和贪吃蛇一样）。具体玩法：根据玩家自定义的地图大小，生成一个N*M的迷宫（初始化地图后长度为1的小蛇出现在迷宫入口处），...,YUEXILIULI,"('34',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_36652619/app/article/details/98135536,4天前,计算机网络基础（HTTP和HTTPS的那点事）,目录HTTP简介HTTP特点HTTP请求结构HTTP响应结构请求响应的步骤状态码普及GET和POST的区别Cookie和SessionHTTPS（超文本传输安全协议）SSL（SecuritySocketLayer）安全套接层HTTPS数据传输过程在数据交换前会进行一次握手确定信息HTTP与HTTPS的区别HTTPS基础上的更安全方案H...,_我走路带风,"('1943',)",7
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_42292831/app/article/details/98472337,2天前,Python网络编程 - 获取CMD命令返回内容（subprocess）,"#最后获得的是GBK编码的字节流res=subprocess.Popen(""dir"",shell=True,stdout=subprocess.PIPE,stderr=subprocess.PIPE)err=res.stderr.read(...",Mu盒子,"('53',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/wwwsctvcom/app/article/details/98470048,2天前,十大经典排序算法：希尔排序,"一、算法复杂度二、算法步骤1、选择一个增量序列t1，t2，……，tk，其中ti&gt;tj,tk=1；2、按增量序列个数k，对序列进行k趟排序；3、每趟排序，根据对应的增量ti，将待排序列分割成若干长度为m的子序列，分别对各子表进行直接插入排序。仅增量因子为1时，整个序列作为一个表来处理，表长度即为整个序列的长度。三、代码实现import...",wwwsctvcom,"('25',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_44330260/app/article/details/98200299,4天前,程序员降薪20万跳槽央企，感慨福利真好，后悔没早点来,说到程序员，很多人肯定非常羡慕他们的工资，尤其是在互联网公司，每年也越来越多人选择做程序员，其实大家都只关注他们年薪几十万，却不知他们都是经过无数次夜晚加班换来的，有些程序员承受不了天天加班的环境，就会选择降薪去事业单位。最近在职业论坛看到这样一个热门的帖子，“程序员降薪20万跳槽央企，感慨福利真好病假6个月内都全薪，后悔没早点来”。到底怎么回事？原来是一个程序员，放弃了年薪40万的工作，降...,编程彭于晏,"('85',)",1
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_43060480/app/article/details/97813414,7天前,python新手图片爬虫,今天要爬的还是中国国家地理画廊的原图。用的是python3.7和pycharm需要的第三方库有：bs4requests标准库有：re网页界面如下：经过仔细观察，发现中国国家地理画廊的原图并不是动态加载，图片链接隐藏在缩略图链接的下面。而且将缩略图链接的最后rw3改为rw17就是原图的地址。昨天我并没有发现原图链接，所以想了一天用了复杂的re方法。上面的是网站logo和lo...,"HeIIo,worId!","('12',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/chen801090/app/article/details/98075908,5天前,适合小白的Python学习教程：Python有什么用？数据化运营怎么做？,数据化运营是提高利润、降低成本、优化运营效率、最大化企业财务回报的必要课题。Python作为数据科学界的关键工具之一，几乎可以应用于所有数据化运营分析和实践的场景。一用Python做数据化运营Python是什么？数据化运营又是什么？为什么要将Python用于数据化运营？本节先来回答这几个问题。1.Python是什么Python是一种面向对象的解释型计算机程序设计语言，由荷兰人Guido...,千锋python和唐唐,"('14',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq470603823/app/article/details/98240297,4天前,HashMap实现原理及源码分析,HashMap实现原理及源码分析　　哈希表（hashtable）也叫散列表，是一种非常重要的数据结构，应用场景及其丰富，许多缓存技术（比如memcached）的核心其实就是在内存中维护一张大的哈希表，而HashMap的实现原理也常常出现在各类的面试题中，重要性可见一斑。本文会对java集合框架中的对应实现HashMap的实现原理进行讲解，然后会对JDK7的HashMap源码进行分析。目录...,CPP编程学长,"('25',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/edcvbgtyhn/app/article/details/97817477,7天前,自学大数据开发的一些经历,自学java，想将来从事大数据工作，怎么学？我是大一通信工程的一名学生，我们学习的是C，但我将来想从事大数据开发的工作，我想向各位大佬请教一下，像我这种情况，自学java然后去从事大数据工作是不是不太现实？如果做的话我该怎么制定学习路线呢？看到这个问题我就有点小激动，哈哈哈~~又是一个想来跳坑的兄弟，但是既然你有这个想法，做为一名长期在一线的JAVA+大数据应用开发老司机，我想结...,edcvbgtyhn,"('128',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_44093897/app/article/details/97808279,3天前,shell脚本练习手册,变量、算数运算符、条件测试|文本文件测试、组合逻辑运算符、代码执行顺序（选择、[单分支、多分支]循环）,真的-我一点都不谦虚,"('1267',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_32123787/app/article/details/97376297,6天前,大数据风控---美国Capital one商业模式分析,前言capitalone作为全球消金、互金和银行信用卡中心学习的典范，国内众多消金和互金的CRO和从业者均出自capitalone;带笔者入行的老师也是capitalone的大咖、华人在capitalone的最高职位者。下面将解析一下capitalone的商业模式和大数据风控模式，希望对你有所启发。一、CapitalOne概况及成长史1988年，美国的大部分信用卡...,Bonus爹地,"('586',)",2
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/CSDN___Jack/app/article/details/98204130,4天前,初学者用C语言设计恶搞小程序！程序员道：小老弟你飘了呀~,恶搞程序，非常简单，效果及其棒！会出现一个信息框，提示“你是猪吗？”如果点是，会出现一个信息框，提示“感谢你做出了正确的回答！”，如果点否，会一直出现一个信息框，提示“请做出正确的回答：你是猪吗？”直到点是为止，然后会出现一个信息框，提示“感谢你做出了正确的回答！”此类小程序可用来整蛊，表白，恶搞，自娱等等，使用方式多种多样，乐趣无穷！下面我们一起来看看。基本效果如下：C语...,CSDN___Jack,"('37',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/sdu_hao/app/article/details/97755123,7天前,Python爬虫实战Pro | (2) 分析ajax爬取今日头条街拍美图,在本篇博客中，我们以今日头条为例通过分析ajax请求来抓取网页数据。本次我们将抓取今日头条街拍美图，完成后，每一组图存放在以标题为名的本地文件夹中。首先我们打开今日头条，搜索街拍：右键查看网页源代码，我们发现原始网页代码中并不包含，当前页面的内容，如搜索上图中的洪爷：可以初步判断这些内容通过ajax加载，然后用javascript渲染出来。接下来，我们右键检查，选择Netw...,CoreJT,"('64',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/pengjunlee/app/article/details/98074108,5天前,前端无小事--Axios,Axios简介Axios是一个基于promise的HTTP库，可以用在浏览器和node.js中，用来发送HTTP请求，其作用类似于jQuery的ajax()方法。Axios支持如下特性：从浏览器中创建XMLHttpRequests	从node.js创建http请求	支持PromiseAPI	拦截请求和响应	转换请求数据和响应数据	取消请...,pengjunlee,"('148',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_35610214/app/article/details/97717059,7天前,我辞职了，理由竟然是………,我：老板，我要离职。。。老板：你为什么要离职？我：我..说到离职，对于程序员来讲会有很多种情况，我们来分析下几种情况薪资待遇在我们工作一段时间后，可能会对目前的薪资待遇不满意，这个时候可以跟老板申请加薪，程序员和老板谈薪资时，大多数程序员是几句话就单刀直入的，对薪资不满意，要求加薪，如果老板同意了，那就说明公司这个时候还是需要你的。这种离职原因还是目前最常见的。...,程序员小鸿,"('128',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/Pieces_thinking/app/article/details/97679856,8天前,2.1 IIC协议的FPGA实现（一）IIC 总线规范简介,2.1IIC协议的FPGA实现2.1.1IIC总线规范简介1)IIC总线特性介绍  在现代电子产品开发过程中，为了简化系统，提高系统的可靠性，缩短产品开发周期，增加硬件构成的灵活性，推出了一种高效、可靠、方便的IIC串行总线。二线制的IIC串行总线使得各电路单元之间只需要简单的两线连接，总线接口都集成在器件中，可实现电路系统的模块化、标准化设计。在IIC总线上，各单元电路...,碎碎思,"('26',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/gjggj/app/article/details/90815130,5天前,计算机网络谢希仁第七版 第一章 课后答案,谢希仁计算机网络第七版课后答案第一章概述1-01计算机网络向用户可以提供那些服务？答：连通性和共享1-02简述分组交换的要点。答：（1）报文分组，加首部（2）经路由器储存转发（3）在目的地合并1-03试从多个方面比较电路交换、报文交换和分组交换的主要优缺点。答：（1）电路交换：端对端通信质量因约定了通信资源获得可靠保障，对连续传送大量数据效率高。（2）报文交换：无须预约传输带...,月已满西楼,"('1799',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/solar_Lan/app/article/details/90706841,3天前,nRF52832-Bluefruit52学习之MicroPython开发（5）-- TFT屏驱动ST7789,nRF52832技术交流群：680723714nRF52832-Bluefruit52核心板详细介绍：https://blog.csdn.net/solar_Lan/article/details/88688451MicroPython固件持续更新下载，请加QQ群：680723714，群名：Bluefruit52官方技术群nRF52832板子的Mic...,Afantor,"('360',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_39662660/app/article/details/98473111,2天前,浅入浅出MongonDB，教你轻松应对面试中遇到的MongonDB索引问题,前言索引是特殊的数据结构，索引存储在一个易于遍历读取的数据集合中（索引存储在特定字段或字段集的值），而且是使用了B-tree结构。索引可以极大程度提升MongoDB查询效率。如果没有索引，MongoDB必须执行全集合collections扫描，即扫描集合中的每个文档，选取符合查询条件的文档document。如果查询时存在适当的索引，MongoDB可以使用索引来限制它必须查询的...,Java-飞鱼,"('35',)",1
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/ccnt_2012/app/article/details/97926780,6天前,概率论发展的转折点：贝特朗悖论,和所有的数学分支类似，概率论的也是经历了从直觉到严格的过程。其中的一个转折点就是贝特朗悖论。1古典派古典派也就是高中时候学的概率论。它的核心哲学思想是：不充分理由原则。1.1不充分理由原则雅各布·伯努利（1654－1705）：提出，如果因为无知，使得我们没有办法判断哪一个结果会比另外一个结果更容易出现，那么应该给予它们相同的概率。比如：	硬币：由于不清楚硬币哪一面...,马同学高等数学,"('33',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/webdu123/app/article/details/97936754,6天前,身为一位程序员：你是否思考过自己想成为什么级别的程序员？,作为一名程序员，不知道你是否考虑过这个问题：“你想成为什么级别的程序员？”假如你还没有考虑过，那真的是该闭上眼睛，用力地想一想了。这个问题并不好回答，因为它多少有些严肃。假如我要问你：“你最喜欢的书是什么？”，虽然也有一点点严肃，但你没准会不假思索地回答：“《平凡的世界》。”这两种问题的难易指数显然不在一个等量级上。但即便是这个问题你觉得很难回答，也应该好好地思考一下，为了你自己。“也许我...,webdu123,"('47',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/yizhixin/app/article/details/97652199,8天前,学习编程时会遇到什么困难 ？,知识深度不够练习不够该了解的IT周边信息不够在编写代码或者理解代码时的逻辑思维不够（二分排序法，至今我知道怎么用，但都还是没有理解清楚它的具体作用）其实你这个问题比较难回答。因人而异。我觉得应该都有一个过程，我擅长自学，有过学徒。因此是这个过程。1、不知道从什么地方看起。解决办法就是从第一章看起。2、不知道如何编第一个程序，很简单解决方法是（1）、用书上例子（2）、独立完成最简...,小牛程序员,"('15',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_33366229/app/article/details/98211189,4天前,Docker 容器命令,有镜像才会有容器这是一个根本前提新建容器dockerrun[option]IMAGE:运行一个hello-world的镜像dockerrunhello-world这样就相当于直接进入了容器中重开一个命令窗口查看容器是否运行dockerps[options]退出容器退出后进入容器使用dockerexec就可以进入...,小白鼠丶,"('39',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_41185868/app/article/details/98367642,3天前,Python语言学习之字母R开头函数使用集锦：random/range/replace/reshape用法之详细攻略,"Python语言学习之字母R开头函数使用集锦：random/range/replace/reshape用法之详细攻略random/range/replace/reshape用法1、random用法numpy.random.randint(a,b)#返回开区间[a,b)范围内的整数值[pytho...",一个处女座的程序猿,"('822',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/yizhixin/app/article/details/98340267,3天前,中国大部分程序员的通病,眼高，手低，知识面宽，深度浅；有自己的理想和目标，但实施的决心太小，还总闲工资太少，觉得老板太扣。于是总是“跳呀跳”。还是让我们实实在在的干点儿事吧！！！中国的大部分程序员都有一个通病不知大家有没有感觉到：眼高，手低，知识面宽，深度浅；有自己的理想和目标，但实施的决心太小，还总闲工资太少，觉得老板太扣。于是总是“跳呀跳”。（也许会让一些人骂，骂就骂吧，不过这是事实，当然，我说的那些程序员，是指...,小牛程序员,"('23',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/jiejiemcu/app/article/details/98363358,3天前,vs code设置字体形式与大小,"字体使用等宽字体：SourceCodePro下载SourceCodePro字体cd/usr/share/fonts/truetype/sudogitclonehttps://github.com/adobe-fonts/source-code-pro.git然后在settings.json文件配置如下：{""terminal.integrated.shell....",_杰杰_,"('15',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_42744000/app/article/details/98323853,3天前,互联网相关行业求职面试秘传法典！！！,互联网相关行业求职面试法典互联网相关行业求职面试总不过、心里没底怎么办？我来帮你，首先自我介绍，我就以一名拉勾网的线上实习生，这次拉勾网与入行相合作，准备进行线上推广，首先我带你们稍微了解一下拉勾网是一家什么样的公司。拉勾网，是一家专为拥有3至10年工作经验的资深互联网从业者，提供工作机会的招聘网站。拉勾网专注于在为求职者提供更人性化、专业化服务的同时，降低企业端寻觅良才的时间和成本。拉勾网...,qq_42744000,"('17',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_44679141/app/article/details/98369380,3天前,用C++编写一个简易数学计算器,简易数学计算器是一款简单易用的数学公式编辑计算工具，它能够帮助用户根据给出的数学公式准确的计算出用户需要的值，软件方便简单。小编用C++编写的数学计算器，比较简单的计算器，可以加减乘除计算，还可以进行正切、余切、平方根、立方根计算，界面方面没有怎么美化，看上还有些改进空间。项目结构展示：源码展示：程序写给VC新手开发者学习参考，高手绕行。声明：本文内容来源于...,云溪老师,"('38',)",1
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/Artisters/app/article/details/98472722,2天前,设计模式之享元模式,"0x01.定义与类型定义：提供了减少对象数量从而改善应用所需的对象结构的方法，系统使用少量对象,而且这些都比较相似，状态变化小，可以实现对象的多次复用。运用共享技术有效地支持大量细粒度的对象类型：结构型享元模式的两个状态：内部状态：在享元对象内部不随外界环境改变而改变的共享部分。外部状态：随着环境的改变而改变，不能够共享的状态就是外部状态。由于享元模式区分了内部状态和外部状态，所...",sigmako,"('62',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_42500431/app/article/details/98054111,5天前,我去面试Python岗位了，和你分享一些经验,"最近换工作了，坐标上海，裸辞，之前早有前辈们说过，""裸辞一时爽,一直裸辞一直爽""，这话一点不假，裸辞你要面临没有收入来源，但是每天眼睁睁看着各种花销不断支出的煎熬，我主要是觉得一边在上家公司工作一边去下家面试可能要经常请假，不太方便（事实证明也确实是这样的，面试并不是每次面试都能通过，即使有些一面通过，但还会邀约二面），并且还有点自己的事情需要处理，所以才裸辞，我非常不建议在目前的大环境下裸辞，能...",@希啊,"('31',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/zhuguang10/app/article/details/98316017,3天前,一文帮你搞懂 MySQL 单表查询的底层实现,我们对大家这种MySQL的使用者来讲，日常用的数最多的就是查询功能。DBA隔三差五丢过去一部分慢查询语句让优化，如果连查询是怎么去执行的都不怎么明白还优化个毛线，因此现在是时候掌握真正的技术了。MySQL有个称做查询优化器的模块，这条查询语句通过语法解析以后就会被交给查询优化器来通过优化，优化的结果就是生成有一个所谓的去执行计划，这个去执行计划表明了应该使用哪些索引通过查询，表之间的连接顺序...,zhuguang10,"('22',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_32141117/app/article/details/98335781,3天前,洛谷P1991 无线通讯网,链接：P1991题目描述国防部计划用无线网络连接若干个边防哨所。2种不同的通讯技术用来搭建无线网络；每个边防哨所都要配备无线电收发器；有一些哨所还可以增配卫星电话。任意两个配备了一条卫星电话线路的哨所（两边都有卫星电话）均可以通话，无论他们相距多远。而只通过无线电收发器通话的哨所之间的距离不能超过D，这是受收发器的功率限制。收发器的功率越高，通话距离D会更远，但同时价格也会更贵。...,Wanna1_Peng,"('10',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_34953053/app/article/details/97920335,6天前,element table的行高设置和分页的设置的问题的总结,"1.Q（问题）：elementUI自带的table设置行高A（解决方法）：修改el-table元素中row-style属性里的height:row-style=""{height:'0'}"":cell-style=""{padding:'0'}""&lt;el-table:data=""tableData""style=""width:100%"":row-style...",༺༂鑫༒海༂༻,"('30',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_44363885/app/article/details/98332760,3天前,程序员遇到祖传代码：技术债是推翻还是维护？,近日，Reddit上有关技术债务的话题再次引起程序员的广泛讨论，面对由错误的或不理想的技术决策所累积的债务，程序员到底是该继续维护还是推倒重写，这个决定应该依据哪些因素来最终决定？如何避免在技术债务上浪费过多时间？本文，InfoQ针对这一话题采访了多位国内技术从业者，试图对这一问题进行深入剖析。你在写技术资产还是技术债务？技术债务是由WardCunningham在199...,linux服务器开发架构师,"('21',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_37706228/app/article/details/98318546,3天前,java面试常见问题总结,java常见面试汇总java中数据类型分为基本数据类型和引用数据类型。基本数据类型整型：byte，short，int，long浮点型：float，double字符型：char布尔型：boolean引用数据类型数组类接口Java程序设计语言对对象采用的不是引用调用，实际上，对象引用是按值传递的在Java中定义一个不做事且没有参数的构造方法的作用Java程序在执行子类...,Alex-xi,"('30',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/Lxxx_H/app/article/details/98458350,2天前,JAVA自学笔记，枚举,JDK1.5中新增了枚举，枚举是一种数据类型，它是一系列具有名称的常量的集合。比如在数学中所学的集合：A｛1，2，3｝，当使用这个集合时，只能使用集合中的1，2，3这三个元素，不是这三个元素的值就无法使用。Java中的枚举是同样的道理，比如在程序中定义了一个性别枚举，里面只有两个值：男，女。那么在使用该枚举时，只能使用男和女这两个值，其他的任何值都是无法使用的。使用枚举类型设置常量以往设置常量...,醒悟。,"('101',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/u013904227/app/article/details/98446997,2天前,策我前行的，是片刻的迷茫,策我前行的，是片刻的迷茫。不知道从什么时候开始，我貌似患上了「迷茫症」，症状表现为：周期约为三个月或者四个月，每次周期一到，我就会陷入一种对未来不可知的迷茫状态，整个人会不断地深深怀疑自己，怀疑自己的能力，怀疑自己工作生活的意义。最近一段时间，由于换了新的环境，更加是陷入到了不可自拔的痛苦当中，痛苦的来源是四面八方的，平时压力感会时不时的来袭，伴随着失眠的状态。总之每日几问：我为什么要到这...,-YellowMax-,"('37',)",1
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_41554580/app/article/details/98379306,3天前,理解JavaScript中的apply，call，bind方法,"前言：JavaScript中的call(),apply()和bind()是Function.prototype下的方法，都是用于改变函数运行时上下文（即：call()、apply()、bind()都是用来重定义this这个对象的），最终的返回值是你调用的方法的返回值，若该方法没有返回值，则返回undefined。apply()apply()的第一个参数是null，在非严格模式下，...",圆圈儿有点圆,"('104',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/Ybulingbuling/app/article/details/95948688,6天前,学好Java后不知道找什么工作？有这些就业岗位等着你，总会有一个是你想要的,Android应用如果你还在寻找Java在哪运用，身边其实就有哦。打开Android手机，随便开启一个App应用，他们就是完全用的Java语言，从Google上搜索Android的API文档，你就会发现它和Java的JDK文档惊人的相似。今天许多的Android应用都是Java程序员开发者开发，虽然Android运用了不同的JVM以及不同的封...,一碗小可爱,"('94',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/CowBoySoBusy/app/article/details/98303811,3天前,2020考研八月份计划,1.专业(408二轮复习)2.英语(继续背单词，刷朱伟老师的视频，做完英一的阅读和完型）3.数学(复习完线代并进行数学强化复习二轮）4.政治(九月中开始复习)...,29DCH,"('31',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/applyTang/app/article/details/98325180,3天前,css伪类和伪元素的不同,"css3给出的伪类定义：伪类是用来允许选择器去选择一些存在于dom之外的信息或者一些不能够通过现在的选择器进行定位信息。也就是说伪类其实是为了弥补选择器的不足，例如：:hover，当鼠标悬停在一个元素上时，可以用这个伪类来为此状态下的元素添加样式。很明显，鼠标悬停在一个元素上的这些信息，并不存在与dom树中。:first-child,要获取第一个子元素，无法通过常规选择器直接获取，...",RebootTang,"('32',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_43960546/app/article/details/98470523,2天前,Kefa and Company（C++multiset可重复集合),"KefaandCompanyKefawantstocelebratehisfirstbigsalarybygoingtorestaurant.However,heneedscompany.Kefahasnfriends,eachfriendwillagreetogototherestaurantifKefaasks.Each...",GOoAT,"('30',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/k_young1997/app/article/details/97624891,8天前,一道简单的java基础面试题 short s = 1; s = s + 1;,今天看到一个简单的面试题shorts1=1;s1=s1+1;有什么错?shorts1=1;s1+=1;有什么错?publicclassTest{publicstaticvoidmain(String[]args){shorts=1;s=s+1;shorts1=1...,Been_You,"('41',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/ProLayman/app/article/details/98357650,3天前,Java字节码,到.class文件目录下javap-cClassName粗略信息javap-vClassName详细信息,ProLayman,"('23',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qinchuanshuo/app/article/details/98342890,3天前,8月3日 行情分析比特币短期冲高，后续是否会再次突破11000？,秦川说币[第115期]前言：今日行情比特币在一段静寂的下跌过后再次冲向10800日内新高，行情也是随着前期文章分析的走势来走，大盘整体思路还是看涨。短线会出现日内回调，现货上面依旧保持持有。消息面：1.据全球最大的数字资产管理公司之一GrayscaleInvestments宣布与CoinbaseCustody公司合作，管理其提供的众多产品的基础资产。Coinbase将为灰度的单一资产...,秦川说币,"('18',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/wucz122140729/app/article/details/98371154,3天前,C语言指针,变量的地址我们已经知道，内存变量简称变量，在C语言中，每定义一个变量，系统就会给变量分配一块内存，而内存是有地址的。如果把计算机的内存区域比喻成一个大宾馆，每块内存的地址就像宾馆房间的编号。C语言采用符号&amp;获取变量的地址。请看下面的示例。示例（book50.c）运行结果注意：在printf函数中，输出内存地址的格式控制符是%p，地址采用十六进制的...,,"('26',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_41701956/app/article/details/83787332,2天前,Java学习路线图（如何快速学Java）,如何快速学Java这里我以JavaEE(JakartaEE)/JavaWeb的经验来说哦。(都把你们看做是零基础入门的了)学习JavaEE(JakartaEE)总体来说会有以下三大模块：Java	数据库	Web前端在我看来，无论学习什么技术都好，在学习该项技术的细节之前都得知道：这项技术是什么，为什么我要学习这项技术，学习了这项技术有什么好处。看似好像...,Java程序员-张凯,"('192',)",1
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_44923344/app/article/details/98473644,2天前,pat真题1002 写出这个数C语言解法和java解法,pat真题1002写出这个数C语言解法和java解法读入一个正整数n，计算其各位数字之和，用汉语拼音写出和的每一位数字。输入格式：每个测试输入包含1个测试用例，即给出自然数n的值。这里保证n小于10^100。输出格式：在一行内输出n的各位数字之和的每一位，拼音数字间有1空格，但一行中最后一个拼音数字后没有空格。输入样例：1234567890987654321...,ζั͡๓陌ℳ,"('23',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/ZeusLW/app/article/details/98315964,3天前,MySQL启动关闭、登录、退出,目录一、MySQL简介二、启动MySQL服务1.使用命令行方式2.使用系统服务方式三、登录MySQL四、退出五、总结一、MySQL简介MySQL是一个关系型数据库管理系统，由瑞典MySQLAB公司开发，AB公司被Sun公司收购，Sun公司被Oracle收购，MySQL目前属于Oracle旗下产品。MySQL是最流行的关系型数据库管理系统之一，在WEB应用方面，MySQL是最好的...,JCHS,"('18',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/Micheal_code/app/article/details/98471163,2天前,过滤器（拦截器）,1.过滤器：请求、响应都需要处理2.需要过滤器放行要想将一个普通的class变为一个具有特定功能的类(过滤器，拦截...)，要么继承父类，要么实现接口，要么增加注解过滤器：实现一个Filter接口init()、destroy（）原理、执行时机同Servlet配置过滤器，类似Servletweb.xml:&lt;filter&gt;...,Micheal_code,"('101',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/zhangguangtao1207/app/article/details/98470730,2天前,OpenResty,"AESaes的使用localaes=require""resty.aes""--aes的使用localaes_encode=function()--16位--cbc128pkcs716偏移量为keylocalkey=""1234567890123456""localaesEn=aes:new(key,nil,aes.c...",张广涛,"('188',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_43472263/app/article/details/98328616,3天前,hdu2476——经典区间dp,题目链接：http://acm.hdu.edu.cn/showproblem.php?pid=2476TherearetwostringsAandBwithequallength.Bothstringsaremadeupoflowercaseletters.Nowyouhaveapowerfulstringpainter.Withtheh...,木每立兄豪,"('81',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_44717961/app/article/details/97925731,6天前,Linux基础知识-5,1、vim，命令模式下光标移动h:左l：右j：下k：上（数字+h/l/j/k	移动多少格）w跳到下一个单词的开头e跳到下一个单词的末尾b跳到上一个单词的开头数字+w/e/b/	跳多少格ctrl+f、shift+PgDo:向下翻页ctrl+b、shift+PgUp:向上翻页在一行中跳到行首：ctrl+home（跳到最前边）、0（跳到最前边）、&gt;（略过行首空格）...,★☆★☆★☆,"('61',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/cq20110310/app/article/details/97850820,7天前,只需4个步骤即可快速学习任何东西,"△向上生长,TOBETOUP.程序员的充电站△如何成为优秀程序员第2期分享转载请联系授权（微信ID：qianpangzi0206）我可以保证你们中的许多人已...",程序员成长充电站,"('77',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/PyhtonChen/app/article/details/98203779,4天前,24式加速你的Python,一，分析代码运行时间第1式，测算代码运行时间平凡方法快捷方法（jupyter环境）第2式，测算代码多次运行平均时间平凡方法快捷方法（jupyter环境）第3式，按调用函数分析代码运行时间平凡方法快捷方法（jupyter环境）第4式，按行分析代码运行时间平凡方法快捷方法（jupyter环境）...,PyhtonChen,"('41',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/liu425151047/app/article/details/97815311,7天前,Spring系列之五：借助Spring Boot简化Spring开发,SpringBoot发布于2014年，目前最新版本2.x。Spring致力于简化Java开发，而SpringBoot致力于让Spring本身更加简单。SpringBoot用了两个技巧来消除Spring项目中的样板式配置：SpringBootStarter和自动配置一、添加Starter依赖SpringBootStarter将应用所需的各种依赖聚合成一项依赖。就好...,1024bit,"('29',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_43901866/app/article/details/98102035,5天前,Android 优秀图标库MPAndroidChart之柱状图（适应百分之八十项目需求）,前言在项目当中很多时候要对数据进行分析就要用到图表，在gitHub上有很多优秀的图表开源库，今天给大家分享的就是MPAndroidChart中的柱状图。简单介绍一下MPAndroidChart：他可以实现图表的拖动，3D，局部查看，数据动态展示等功能。官方源码地址：github.com/PhilJay/MPA…废话就不多说了，先给看大家看看效果图操作步骤第一步：需要...,Android Developer,"('17',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/weixin_43107798/app/article/details/98473792,2天前,Spring MVC入门程序,通过对SpringMVC框架的初步学习，结合了我对SpringMVC框架的理解，总结了以下知识点，如有错误欢迎指正，谢谢。SpringMVCSpringMVC是Spring提供的一个实现WebMVC设计模式的轻量级框架。SpringMVC的特点是Spring框架的一部分，可以方便的利用Spring所提供的其他功能。灵活性强，易于与其他框架集成。提供了一个前端控制器Disp...,趔趄上岸的青年,"('43',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/willway_wang/app/article/details/87432146,2天前,《Java编程思想》读书笔记,5初始化和清理this关键字：编译器暗自把”所操作对象的引用”作为第一个参数传递给方法，如peel()。假设要在方法的内部获取对当前对象的引用，是没有标识符可用的，因为这个引用是由编译器“偷偷”传入的。但是，为此有个专门的关键字：this。this关键字只能在方法内部使用，表示对“调用方法的那个对象”的引用。this关键字可以用于将当前对象传递给其他方法。static关键字：要是...,志超_,"('91',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/wow357591543/app/article/details/98202043,4天前,冒泡排序,publicvoidbubbleSort(int[]list){inttemp=0;//用来交换的临时数booleanbChange=false;//交换标志//要遍历的次数for(inti=0;i&lt;list.length-1;i++){bChange=false;...,南无阿弥豆腐,"('25',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/u014329077/app/article/details/97968310,6天前,MVC 编程模型,MVC是三个ASP.NET开发模型之一。MVC是用于构建web应用程序的一种框架，使用MVC(ModelViewController)设计：	Model（模型）表示应用程序核心（比如数据库记录列表）			View（视图）对数据（数据库记录）进行显示			Controller（控制器）处理输入（写入数据库记录）	MVC模型同时提供对HTML、CSS...,怒火雷电,"('161',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/S_bean/app/article/details/97790754,7天前,一个入行2年程序员的自述,大四的时候在偶然一次机遇中我了解到java工程师这个职业，然后在朋友和家人的推荐下我开始慢慢的接触java的内容。那是2016年在西安，当时正好某某培训机构在大肆宣传java工作前景，培训包分配。马上要毕业走向社会的我，在当时社会情工作普遍难找的工作的情况下，信了培训机构的鬼话。为什么说是鬼话嘞，因为我根本没看到分配给我工作。在加上我是零基础，去很多公司面...,S_bean,"('84',)",1
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_43431158/app/article/details/98121556,4天前,文件上传漏洞——upload-labs(1-10),前言：文件上传漏洞还有很多知识要学习，这次就通过upload-labs进行学习第一关上传有限制，只让上传JPEG或,~Lemon,"('30',)",1
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/programmer_feng/app/article/details/97664582,8天前,有哪些中文海报让你拍案叫绝？,最近一部哪吒之魔童降世口碑炸裂，刷爆网络，成为暑期档最值得一看的电影，首映预售票房已经成功破亿，猫眼评分9.7，一向对国产片严苛的豆瓣也给出了8.7的高分。当之无愧的国漫新巅峰。作为设计师，不得不提这部国漫的海报设计师。北京赵力视觉文化传媒有限公司，赵力。这些年，赵力亲自操刀了众多知名电影的海报，包括中国票房前三的《战狼2》《唐人街探案2》，以及《环太平洋:雷霆再起》《星际...,programmer_feng,"('28',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/learning__java/app/article/details/97885689,6天前,mysql 多表查询,这里是修真院后端小课堂，每篇分享文从八个方面深度解析后端知识/技能，本篇分享的是：【mysql多表查询】标题：【修真院java（职业）小课堂】mysql多表查询大家好，我是IT修真院武汉分院的15期学员，一枚正直纯洁善良的JAVA程序员。本次为大家带来关于深度思考的一个问题，我们为什么要使用mysql多表查询？（1）背景介绍：在任务一里，我们已经对mysql数据库的基本sql有了...,,"('69',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/H_Expect/app/article/details/98473988,2天前,C++ | 顺序容器（vector、list、deque）,C++标准模板库提供三种顺序容器：vector，list和deque。vector类和deque类是以数组为基础的，list类是以双向链表为基础的。1.vector图1vector底层结构如图1所示，矢量vector类提供顺序表。下标运算符[]有效。矢量可以用来实现队列、堆栈、列表和其他更复杂的结构。vector支持随机访问迭代子。vector的迭...,H_Expect,"('27',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/brazor/app/article/details/97894002,6天前,MySQL高并发优化,"参考：https://www.cnblogs.com/musings/p/5913157.html在Apache,PHP,mysql的体系架构中，MySQL对于性能的影响最大，也是关键的核心部分。对于Discuz!论坛程序也是如此，MySQL的设置是否合理优化，直接影响到论坛的速度和承载量！同时，MySQL也是优化难度最大的一个部分，不但需要理解一些MySQL专业知识，同时还需要长时...",,"('33',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_37141773/app/article/details/97897814,6天前,【Java8新特性】——Lambda表达式,前言从java8出现以来lambda是最重要的特性之一，它可以让我们用简洁流畅的代码完成一个功能。很长一段时间java被吐槽是冗余和缺乏函数式编程能力的语言，随着函数式编程的流行java8种也引入了这种编程风格。一、lambda简介什么是lambda?lambda表达式是一段可以传递的代码，它的核心思想是将面向对象中的传递数据变成传递行为。我们回顾一下在使用java8之前要...,人生呐,"('368',)",1
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/qq_40572353/app/article/details/98082134,5天前,编程素养day4,编程素养（每日一练Day4）Q1:JavaScript编程题（1）问题：页面上输入一个年份（需验证），判断是否是闰年（能被4整除，却不能被100整除的年份;能被400整除的是闰年），并且在页面上显示相应提示信息。（2）代码实现&lt;!doctypehtml&gt;&lt;html&gt;&lt;head&gt;&lt;title&...,未来1303,"('12',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/liyuanyue2017/app/article/details/98117256,5天前,【计网面试题】TCP四次挥手,简述TCP四次挥手假设A客户机，B为服务器：A发出连接释放报文：FIN=1，seq=u，同时停止发送数据，A进入FIN_WAIT_1状态B收到连接释放报文，发送确认报文，ACK=1，seq=v，ack=u+1，同时通知应用进程，B进入CLOSE_WAIT状态，此时B可以向A继续发送报文当A收到B的确认报文后，进入FIN...,叫我皮卡丘,"('24',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/dyq1995/app/article/details/97890857,6天前,每天都有新发现之TCP/IP 协议的种类介绍,TCP/IP协议：TCP/IP是不同的通信协议的大集合。协议族TCP/IP是基于TCP和IP这两个最初的协议之上的不同的通信协议的大集合。TCP-传输控制协议TCP用于从应用程序到网络的数据传输控制。TCP负责在数据传送之前将它们分割为IP包，然后在它们到达的时候将它们重组。IP-网际协议（InternetProtocol）IP负责计算...,青春不迷、夜半听雨,"('22',)",0
+url,created_at,title,summary,nickname,views,comments
+https://blog.csdn.net/sd09044901guic/app/article/details/98054838,5天前,树状数组入门(简单的原理讲解),树状数组可以解决什么样的问题：这里通过一个简单的题目展开介绍，先输入一个长度为n的数组，然后我们有如下两种操作：输入一个数m，输出数组中下标1~m的前缀和	对某个指定下标的数进行值的修改多次执行上述两种操作寻常方法对于一个的数组，如果需要求1~m的前缀和我们可以将其从下标1开始对m个数进行求和，对于n次操作，时间复杂度是O(n^2)，对于值的修改，我们可以直接通过下标找到要修改的...,csdn刘成,"('18',)",0
